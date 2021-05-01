@@ -6,7 +6,41 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38cc09b4-e728-436c-b658-a53e0c2a0df9" name="Default Changelist" comment="" />
+    <list default="true" id="38cc09b4-e728-436c-b658-a53e0c2a0df9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/test/BookDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/test/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jh/web/BookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/utils/WebUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/utils/WebUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/web/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/web/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/web/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/classes/com/jh/web/RegistServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/common/head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/common/head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/common/manager_menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/common/manager_menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/manager/book_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/manager/book_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/manager/book_manager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/bookjavaweb_war_exploded/pages/manager/book_manager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/utils/WebUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/utils/WebUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/web/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/web/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/web/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookjavaweb/com/jh/web/RegistServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/book.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/book.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jh/utils/WebUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jh/utils/WebUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jh/web/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jh/web/BaseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jh/web/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jh/web/RegistServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/common/head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/common/head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/common/manager_menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/common/manager_menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/manager/book_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/manager/book_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/manager/book_manager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/manager/book_manager.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +52,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
-        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -33,18 +70,22 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1rhpjgCNSMjoip3nJQwtSqzplSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1javaweb" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +103,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.54">
-    <configuration name="UserDaomplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookDaoTest.addBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bookjavaweb" />
       <extension name="coverage">
         <pattern>
@@ -71,29 +112,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.jh.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jh.test.UserDaomplTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDaomplTest.queryUserByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bookjavaweb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jh.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jh.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jh.test.UserDaomplTest" />
-      <option name="METHOD_NAME" value="queryUserByUsername" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.test.BookDaoTest" />
+      <option name="METHOD_NAME" value="addBook" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.existsUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookDaoTest.deleteBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bookjavaweb" />
       <extension name="coverage">
         <pattern>
@@ -102,14 +128,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.jh.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jh.test.UserServiceTest" />
-      <option name="METHOD_NAME" value="existsUsername" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.test.BookDaoTest" />
+      <option name="METHOD_NAME" value="deleteBookById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.deleteBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bookjavaweb" />
       <extension name="coverage">
         <pattern>
@@ -118,14 +144,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.jh.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jh.test.UserServiceTest" />
-      <option name="METHOD_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="deleteBookById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.registUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.queryBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bookjavaweb" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +160,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.jh.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jh.test.UserServiceTest" />
-      <option name="METHOD_NAME" value="registUser" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="queryBookById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.queryBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookjavaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jh.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="queryBooks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,20 +256,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserDaomplTest" />
-      <item itemvalue="JUnit.UserDaomplTest.queryUserByUsername" />
-      <item itemvalue="JUnit.UserServiceTest.existsUsername" />
-      <item itemvalue="JUnit.UserServiceTest.login" />
-      <item itemvalue="JUnit.UserServiceTest.registUser" />
+      <item itemvalue="JUnit.BookDaoTest.addBook" />
+      <item itemvalue="JUnit.BookDaoTest.deleteBookById" />
+      <item itemvalue="JUnit.BookServiceTest.queryBookById" />
+      <item itemvalue="JUnit.BookServiceTest.queryBooks" />
+      <item itemvalue="JUnit.BookServiceTest.deleteBookById" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.54" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserServiceTest.existsUsername" />
-        <item itemvalue="JUnit.UserServiceTest.login" />
-        <item itemvalue="JUnit.UserServiceTest.registUser" />
-        <item itemvalue="JUnit.UserDaomplTest.queryUserByUsername" />
-        <item itemvalue="JUnit.UserDaomplTest" />
+        <item itemvalue="JUnit.BookServiceTest.deleteBookById" />
+        <item itemvalue="JUnit.BookServiceTest.queryBooks" />
+        <item itemvalue="JUnit.BookServiceTest.queryBookById" />
+        <item itemvalue="JUnit.BookDaoTest.deleteBookById" />
+        <item itemvalue="JUnit.BookDaoTest.addBook" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +311,8 @@
       <workItem from="1619512550559" duration="2960000" />
       <workItem from="1619520535801" duration="3435000" />
       <workItem from="1619524200453" duration="16724000" />
+      <workItem from="1619609211403" duration="16144000" />
+      <workItem from="1619767644023" duration="8663000" />
     </task>
     <servers />
   </component>
@@ -284,86 +328,86 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1619609273012" />
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1619513760748">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1619617302738">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1619513760748" />
-    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1619512750107">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1619617302738" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1619617574203">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1619512750107" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1619617574203" />
     <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619484266534">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1619484266534" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1619605114736">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1619768317165">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1619605114736" />
-    <state width="1024" height="185" key="GridCell.Tab.0.bottom" timestamp="1619609389971">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1619768317165" />
+    <state width="1024" height="179" key="GridCell.Tab.0.bottom" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619609389971" />
-    <state width="1024" height="185" key="GridCell.Tab.0.center" timestamp="1619609389971">
+    <state width="1024" height="179" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.0.center" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619609389971" />
-    <state width="1024" height="185" key="GridCell.Tab.0.left" timestamp="1619609389971">
+    <state width="1024" height="179" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.0.left" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619609389971" />
-    <state width="1024" height="185" key="GridCell.Tab.0.right" timestamp="1619609389971">
+    <state width="1024" height="179" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.0.right" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619609389971" />
-    <state width="1024" height="185" key="GridCell.Tab.1.bottom" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.1.bottom" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.1.center" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.1.center" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.1.left" timestamp="1619609389971">
+    <state width="1024" height="179" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.1.left" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619609389971" />
-    <state width="1024" height="185" key="GridCell.Tab.1.right" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.1.right" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.2.bottom" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.2.bottom" timestamp="1619793146938">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.2.center" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619793146938" />
+    <state width="1024" height="179" key="GridCell.Tab.2.center" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.2.left" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.2.left" timestamp="1619793146937">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.2.right" timestamp="1619609389972">
+    <state width="1024" height="179" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1619793146937" />
+    <state width="1024" height="179" key="GridCell.Tab.2.right" timestamp="1619793146938">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1619609389972" />
-    <state width="1024" height="185" key="GridCell.Tab.3.bottom" timestamp="1619606190755">
+    <state width="1024" height="179" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1619793146938" />
+    <state width="1024" height="234" key="GridCell.Tab.3.bottom" timestamp="1619770393627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619606190755" />
-    <state width="1024" height="185" key="GridCell.Tab.3.center" timestamp="1619606190755">
+    <state width="1024" height="234" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619770393627" />
+    <state width="1024" height="234" key="GridCell.Tab.3.center" timestamp="1619770393626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1619606190755" />
-    <state width="1024" height="185" key="GridCell.Tab.3.left" timestamp="1619606190755">
+    <state width="1024" height="234" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1619770393626" />
+    <state width="1024" height="234" key="GridCell.Tab.3.left" timestamp="1619770393626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1619606190755" />
-    <state width="1024" height="185" key="GridCell.Tab.3.right" timestamp="1619606190755">
+    <state width="1024" height="234" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1619770393626" />
+    <state width="1024" height="234" key="GridCell.Tab.3.right" timestamp="1619770393626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1024" height="185" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1619606190755" />
+    <state width="1024" height="234" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1619770393626" />
     <state x="270" y="74" key="SettingsEditor" timestamp="1619439775815">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -372,21 +416,32 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.864@0.0.1536.864" timestamp="1619529426332" />
-    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1619512754700">
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1619617577870">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1619512754700" />
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1619617577870" />
+    <state x="321" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1619768626835">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="321" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1619768626835" />
     <state x="470" y="59" key="refactoring.ChangeSignatureDialog" timestamp="1619515045952">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="470" y="59" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1619515045952" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1619440506221">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1619776368698">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1619440506221" />
-    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup" timestamp="1619529668081">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1619776368698" />
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup" timestamp="1619778599012">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1619529668081" />
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1619778599012" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

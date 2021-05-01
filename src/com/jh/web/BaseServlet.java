@@ -8,6 +8,12 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 
 public abstract class BaseServlet extends HttpServlet {
+
+
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        doPost(req,resp);
+    }
+
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String action = req.getParameter("action");
 
